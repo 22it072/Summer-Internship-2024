@@ -107,12 +107,6 @@ Utilized event listeners and DOM manipulation to create a more engaging user exp
 
 - Verified the configuration by accessing the personal webpage hosted on the EC2 instance. Used the public IP address of the instance in a web browser to confirm that the Apache server is serving the webpage correctly. This demonstrated successful setup and configuration of the web server.(Task 10)
 
-- Here is the finalised link : http://52.63.0.141/personalpage.html
-
-## Notes:
-➠We were given this repo which contains basic documentation of AWS services which can be helpful to everybody --
-https://github.com/hamidgholami/accp-cheatsheet
-
 ## 2️⃣ week 2
 
 ### *20th May 2024*
